@@ -22,10 +22,10 @@
       "original_namespace" : "",
       "original_publisher" : "",
       "custodian_namespace" : "",
-      "MD5-CAM-1.0.1" : "5b988c5120a83d487e5a2dbe2b6ba02b",
+      "MD5-CAM-1.0.1" : "74d86d943a1de09eaf2926b0346fd16b",
       "PARENT:MD5-CAM-1.0.1" : "6562F732112B8B3F94790E178F4243A5",
       "original_language" : "ISO_639-1::nb",
-      "sem_ver" : "0.1.1",
+      "sem_ver" : "0.1.2",
       "build_uid" : ""
     },
     "details" : {
@@ -383,7 +383,7 @@
           "at0000.1" : {
             "@type" : "ARCHETYPE_TERM",
             "code" : "at0000.1",
-            "text" : "Sykepleier",
+            "text" : "Sykepleier 1",
             "description" : "Angir sykepleier som deltok under utførelse av prosedyren. "
           },
           "at0002.1" : {
