@@ -22,9 +22,11 @@
       "original_namespace" : "",
       "original_publisher" : "",
       "custodian_namespace" : "",
-      "MD5-CAM-1.0.1" : "3e30daf3348eef2c5b4aa86e9bcaafb7",
+      "MD5-CAM-1.0.1" : "5b988c5120a83d487e5a2dbe2b6ba02b",
       "PARENT:MD5-CAM-1.0.1" : "6562F732112B8B3F94790E178F4243A5",
-      "original_language" : "ISO_639-1::nb"
+      "original_language" : "ISO_639-1::nb",
+      "sem_ver" : "0.1.1",
+      "build_uid" : ""
     },
     "details" : {
       "nb" : {
@@ -285,7 +287,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "B8478152A65B2FE5B68C417E9CF55366"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -418,7 +422,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "B8478152A65B2FE5B68C417E9CF55366"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -550,7 +556,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "B8478152A65B2FE5B68C417E9CF55366"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -682,7 +690,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "B8478152A65B2FE5B68C417E9CF55366"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -814,7 +824,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "BCC0605A5537A43198F2069B6B38AF3A"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -1065,7 +1077,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "207493C3C82CA604F5510C04A141A840"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -1931,8 +1945,8 @@
                         "lower" : "PT0S",
                         "lowerIncluded" : true,
                         "upperIncluded" : false,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : true
+                        "upperUnbounded" : true,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -2527,7 +2541,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "72cf8cc9058b4c4fcd1db9cbe7cd1fd2"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -2619,7 +2635,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "e27b44ea03700a5faad194263a62ff7a"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -2684,7 +2702,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "6da8f81791545d1431ef88a3b0c46e23"
+      },
       "details" : {
         "no" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -2850,7 +2870,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "DEA097EC003124A862F87F889E0F34CF"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -3329,7 +3351,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "BDD5038538AB4C56E0D328FDC317B4FB"
+      },
       "details" : {
         "de" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -3889,7 +3913,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "772F1EE2DFC32F55A999B2D1307E945D"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -3971,8 +3997,8 @@
                     "lower" : 1,
                     "lowerIncluded" : true,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -4020,8 +4046,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4124,8 +4150,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4139,8 +4165,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4154,8 +4180,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4169,8 +4195,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4209,8 +4235,8 @@
                     "lower" : "PT0H",
                     "lowerIncluded" : true,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -4259,8 +4285,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4307,8 +4333,8 @@
                           "lower" : 0.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : false,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : true
+                          "upperUnbounded" : true,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -4353,8 +4379,8 @@
                           "lower" : 0.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : false,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : true
+                          "upperUnbounded" : true,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -4451,7 +4477,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "AED8984A8418EB77FA730C42304D3AA3"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -4537,8 +4565,8 @@
                     "lower" : "P0D",
                     "lowerIncluded" : false,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -4592,8 +4620,8 @@
                       "upper" : 7.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4605,8 +4633,8 @@
                       "upper" : 0,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   } ]
                 }, {
@@ -4618,8 +4646,8 @@
                       "upper" : 31.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4631,8 +4659,8 @@
                       "upper" : 0,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   } ]
                 }, {
@@ -4644,8 +4672,8 @@
                       "upper" : 366.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -4657,8 +4685,8 @@
                       "upper" : 0,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   } ]
                 } ]
@@ -4707,8 +4735,8 @@
                           "upper" : 7.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -4720,8 +4748,8 @@
                           "upper" : 0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       } ]
                     }, {
@@ -4733,8 +4761,8 @@
                           "upper" : 31.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -4746,8 +4774,8 @@
                           "upper" : 0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       } ]
                     }, {
@@ -4759,8 +4787,8 @@
                           "upper" : 366.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -4772,8 +4800,8 @@
                           "upper" : 0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       } ]
                     } ]
@@ -4820,8 +4848,8 @@
                           "upper" : 7.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -4833,8 +4861,8 @@
                           "upper" : 0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       } ]
                     }, {
@@ -4846,8 +4874,8 @@
                           "upper" : 31.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -4859,8 +4887,8 @@
                           "upper" : 0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       } ]
                     }, {
@@ -4872,8 +4900,8 @@
                           "upper" : 366.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -4885,8 +4913,8 @@
                           "upper" : 0,
                           "lowerIncluded" : true,
                           "upperIncluded" : true,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : false
+                          "upperUnbounded" : false,
+                          "lowerUnbounded" : false
                         } ]
                       } ]
                     } ]
@@ -4948,8 +4976,8 @@
                     "upper" : 31,
                     "lowerIncluded" : true,
                     "upperIncluded" : true,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : false
+                    "upperUnbounded" : false,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -4975,8 +5003,8 @@
                         "upper" : 31,
                         "lowerIncluded" : true,
                         "upperIncluded" : true,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : false
+                        "upperUnbounded" : false,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -5000,8 +5028,8 @@
                         "upper" : 31,
                         "lowerIncluded" : true,
                         "upperIncluded" : true,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : false
+                        "upperUnbounded" : false,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -5099,7 +5127,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "BCC0605A5537A43198F2069B6B38AF3A"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -5350,7 +5380,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "207493C3C82CA604F5510C04A141A840"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -6177,8 +6209,8 @@
                         "lower" : "PT0S",
                         "lowerIncluded" : true,
                         "upperIncluded" : false,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : true
+                        "upperUnbounded" : true,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -6480,7 +6512,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "DEA097EC003124A862F87F889E0F34CF"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -8228,7 +8262,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "772F1EE2DFC32F55A999B2D1307E945D"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -8310,8 +8346,8 @@
                     "lower" : 1,
                     "lowerIncluded" : true,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -8359,8 +8395,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -8476,8 +8512,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -8491,8 +8527,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -8506,8 +8542,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -8521,8 +8557,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -8561,8 +8597,8 @@
                     "lower" : "PT0H",
                     "lowerIncluded" : true,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -8611,8 +8647,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -8659,8 +8695,8 @@
                           "lower" : 0.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : false,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : true
+                          "upperUnbounded" : true,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -8705,8 +8741,8 @@
                           "lower" : 0.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : false,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : true
+                          "upperUnbounded" : true,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -8809,7 +8845,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "DEA097EC003124A862F87F889E0F34CF"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -10557,7 +10595,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "772F1EE2DFC32F55A999B2D1307E945D"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -10639,8 +10679,8 @@
                     "lower" : 1,
                     "lowerIncluded" : true,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -10688,8 +10728,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -10805,8 +10845,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -10820,8 +10860,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -10835,8 +10875,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -10850,8 +10890,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -10890,8 +10930,8 @@
                     "lower" : "PT0H",
                     "lowerIncluded" : true,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -10940,8 +10980,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -10988,8 +11028,8 @@
                           "lower" : 0.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : false,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : true
+                          "upperUnbounded" : true,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -11034,8 +11074,8 @@
                           "lower" : 0.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : false,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : true
+                          "upperUnbounded" : true,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -11138,7 +11178,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "BCC0605A5537A43198F2069B6B38AF3A"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -11371,7 +11413,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "2C300A214811804EEB160CAFCB6DE4D5"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -11694,7 +11738,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "8dae678b3ebbc274f912701c6c6b90a5"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -11783,7 +11829,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "C52772EB8ADFDBF47FEE93C9890947B1"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -11940,7 +11988,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "C52772EB8ADFDBF47FEE93C9890947B1"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -12218,7 +12268,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "C52772EB8ADFDBF47FEE93C9890947B1"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -12438,7 +12490,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "C52772EB8ADFDBF47FEE93C9890947B1"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -12738,7 +12792,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "c917556a2ba1452750dd38e7ea50d8b8"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -12813,8 +12869,8 @@
                       "upper" : 1,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_TERMINOLOGY_CODE",
@@ -12831,8 +12887,8 @@
                       "upper" : 2,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_TERMINOLOGY_CODE",
@@ -12849,8 +12905,8 @@
                       "upper" : 3,
                       "lowerIncluded" : true,
                       "upperIncluded" : true,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : false
+                      "upperUnbounded" : false,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_TERMINOLOGY_CODE",
@@ -12914,7 +12970,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "C52772EB8ADFDBF47FEE93C9890947B1"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -13157,7 +13215,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "C52772EB8ADFDBF47FEE93C9890947B1"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -13362,7 +13422,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "C52772EB8ADFDBF47FEE93C9890947B1"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -13539,7 +13601,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "BCC0605A5537A43198F2069B6B38AF3A"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -13817,7 +13881,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "207493C3C82CA604F5510C04A141A840"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -14627,8 +14693,8 @@
                         "lower" : "PT0S",
                         "lowerIncluded" : true,
                         "upperIncluded" : false,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : true
+                        "upperUnbounded" : true,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -14910,7 +14976,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "207493C3C82CA604F5510C04A141A840"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -15692,8 +15760,8 @@
                         "lower" : "PT0S",
                         "lowerIncluded" : true,
                         "upperIncluded" : false,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : true
+                        "upperUnbounded" : true,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -15985,7 +16053,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "DEA097EC003124A862F87F889E0F34CF"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -17757,7 +17827,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "772F1EE2DFC32F55A999B2D1307E945D"
+      },
       "details" : {
         "nb" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -17839,8 +17911,8 @@
                     "lower" : 1,
                     "lowerIncluded" : true,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -17895,8 +17967,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   } ]
                 } ]
@@ -17996,8 +18068,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -18011,8 +18083,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -18026,8 +18098,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -18041,8 +18113,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -18081,8 +18153,8 @@
                     "lower" : "PT0H",
                     "lowerIncluded" : true,
                     "upperIncluded" : false,
-                    "lowerUnbounded" : false,
-                    "upperUnbounded" : true
+                    "upperUnbounded" : true,
+                    "lowerUnbounded" : false
                   } ]
                 } ]
               } ],
@@ -18131,8 +18203,8 @@
                       "lower" : 0.0,
                       "lowerIncluded" : true,
                       "upperIncluded" : false,
-                      "lowerUnbounded" : false,
-                      "upperUnbounded" : true
+                      "upperUnbounded" : true,
+                      "lowerUnbounded" : false
                     } ]
                   }, {
                     "@type" : "C_STRING",
@@ -18179,8 +18251,8 @@
                           "lower" : 0.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : false,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : true
+                          "upperUnbounded" : true,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -18225,8 +18297,8 @@
                           "lower" : 0.0,
                           "lowerIncluded" : true,
                           "upperIncluded" : false,
-                          "lowerUnbounded" : false,
-                          "upperUnbounded" : true
+                          "upperUnbounded" : true,
+                          "lowerUnbounded" : false
                         } ]
                       }, {
                         "@type" : "C_STRING",
@@ -18328,7 +18400,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "207493C3C82CA604F5510C04A141A840"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -19120,8 +19194,8 @@
                         "lower" : "PT0S",
                         "lowerIncluded" : true,
                         "upperIncluded" : false,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : true
+                        "upperUnbounded" : true,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -19410,7 +19484,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "207493C3C82CA604F5510C04A141A840"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -20202,8 +20278,8 @@
                         "lower" : "PT0S",
                         "lowerIncluded" : true,
                         "upperIncluded" : false,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : true
+                        "upperUnbounded" : true,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -20492,7 +20568,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "207493C3C82CA604F5510C04A141A840"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -21284,8 +21362,8 @@
                         "lower" : "PT0S",
                         "lowerIncluded" : true,
                         "upperIncluded" : false,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : true
+                        "upperUnbounded" : true,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -21575,7 +21653,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "BCC0605A5537A43198F2069B6B38AF3A"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -21826,7 +21906,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "9E343B7FD95E59B5FDE19117CA8F3D62"
+      },
       "details" : {
         "de" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -22361,7 +22443,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "207493C3C82CA604F5510C04A141A840"
+      },
       "details" : {
         "ru" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
@@ -23167,8 +23251,8 @@
                         "lower" : "PT0S",
                         "lowerIncluded" : true,
                         "upperIncluded" : false,
-                        "lowerUnbounded" : false,
-                        "upperUnbounded" : true
+                        "upperUnbounded" : true,
+                        "lowerUnbounded" : false
                       } ]
                     } ]
                   } ],
@@ -23446,7 +23530,9 @@
       "ipAcknowledgements" : { },
       "references" : { },
       "conversionDetails" : { },
-      "otherDetails" : { },
+      "otherDetails" : {
+        "PARENT:MD5-CAM-1.0.1" : "CFBF69606D3F96D62980F4CDABE52956"
+      },
       "details" : {
         "de" : {
           "@type" : "RESOURCE_DESCRIPTION_ITEM",
