@@ -95,7 +95,7 @@ Standards for the clinical structure and content of patient records (Complete do
 		["original_namespace"] = <"org.openehr">
 		["original_publisher"] = <"openEHR Foundation">
 		["custodian_namespace"] = <"org.openehr">
-		["MD5-CAM-1.0.1"] = <"772F1EE2DFC32F55A999B2D1307E945D">
+		["MD5-CAM-1.0.1"] = <"f1796d954888b490f26fc4590dd9b34f">
 		["build_uid"] = <"20eebabb-d9ad-40b4-9409-7eccee4e12c5">
 		["revision"] = <"1.0.1">
 	>
@@ -167,7 +167,7 @@ definition
 				include
 					archetype_id/value matches {/openEHR-EHR-CLUSTER\.timing_daily(-[a-zA-Z0-9_]+)*\.v1/}
 			}
-			ELEMENT[at0134] occurrences matches {0..1} matches {    -- Administration rate
+			ELEMENT[at0134] occurrences matches {0..1} matches {    -- Administration rate Slot
 				value matches {
 					C_DV_QUANTITY <
 						property = <[openehr::126]>
@@ -265,7 +265,7 @@ ontology
 					comment = <"For example: 'Administer over 10 minutes'.">
 				>
 				["at0134"] = <
-					text = <"Administration rate">
+					text = <"Administration rate Slot">
 					description = <"The rate at which the medication, such as an infusion, is to be administered.">
 					comment = <"For example: '200 ml/h'. Use the text data type to record non- or semi-quantifiable instructions.">
 				>
@@ -324,7 +324,7 @@ Where multiple dosages are expressed, the 'Pattern sequence' makes the order in 
 					comment = <"For eksempel \"Administreres over 10 minutter\".">
 				>
 				["at0134"] = <
-					text = <"Administreringshastighet">
+					text = <"*Administration rate Slot (en)">
 					description = <"Hastigheten som skal benyttes under administreringen, for eksempel ved en infusjon.">
 					comment = <"For eksempel \"200 ml/t\". Bruk datatypen \"tekst\" for å registrere ikke- eller semikvantifiserbare instruksjoner.">
 				>
@@ -383,7 +383,7 @@ Where multiple dosages are expressed, the 'Pattern sequence' makes the order in 
 					comment = <"Por exemplo: \"Administrar por 10 minutos\".">
 				>
 				["at0134"] = <
-					text = <"Taxa de administração">
+					text = <"*Administration rate Slot (en)">
 					description = <"A taxa na qual o medicamento, como uma infusão, deve ser administrado.">
 					comment = <"Por exemplo: \"200 ml/h\". Use o tipo de dado texto para gravar instruções qualitativas ou semi-quantitativas.">
 				>
