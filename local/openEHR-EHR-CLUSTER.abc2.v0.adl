@@ -1,5 +1,5 @@
 archetype (adl_version=1.4; uid=9f7af40f-c6df-425f-ab03-5ab4446c64a9)
-	openEHR-EHR-CLUSTER.abc2.v0
+	openEHR-EHR-CLUSTER.abc3.v0
 
 concept
 	[at0000]
@@ -23,7 +23,7 @@ description
 		["original_namespace"] = <"org.openehr">
 		["original_publisher"] = <"openEHR Foundation">
 		["custodian_namespace"] = <"org.openehr">
-		["MD5-CAM-1.0.1"] = <"5d7d483ac6cb622318ff6e06d1900671">
+		["MD5-CAM-1.0.1"] = <"a2c53ae493820ef4ee771db7fc7956e8">
 		["build_uid"] = <"beeb1df0-7c60-335b-be19-61a2a0b253fa">
 	>
 
